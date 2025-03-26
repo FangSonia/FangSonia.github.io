@@ -7,5 +7,5 @@ slug: Blog
 sidebar: true
 order: 2
 description: >
-  Anything about Development
+  Anything about product knowledge and experience summary
 ---

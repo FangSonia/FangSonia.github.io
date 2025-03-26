@@ -23,17 +23,16 @@ baseurl:               ''
 lang:                  zh-CN, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 FangSonia
+title:                 SoniaFang
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Nothing for nothing.
-  An ordinary person.
+  Every flower must grow through dirt.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Nothing for nothing.
+    Every flower must grow through dirt.
 
 # A list of keywords for your blog
 keywords:              []

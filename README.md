@@ -1,4 +1,4 @@
-# Simon Zeng's Blog
+# Sonia Fang's Blog
 
 ## [About Me](https://fangsonia.github.io/about/)
 

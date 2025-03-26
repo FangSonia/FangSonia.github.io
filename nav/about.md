@@ -22,11 +22,8 @@ Pleaseh check my [resume](/resume/) if you wish to know more about me.
 
 ***
 
-## Nothing for nothing
+##   Every flower must grow through dirt.
 
-
-
-## Face up to rules,abide by the rules,change the rules.
 
 
 ***

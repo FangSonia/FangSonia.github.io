@@ -15,10 +15,10 @@ basics:
     city: "深圳市"
     countryCode: "ZH"
     region: "龙岗区"
-  profiles:
-    - network: "Github"
-      username: "FangSonia"
-      url: "https://github.com/FangSonia"
+  # profiles:
+    # - network: "Github"
+    #   username: "FangSonia"
+    #   url: "https://github.com/FangSonia"
 work:
   - company: "深圳市二一教育科技有限责任公司"
     position: "产品经理"

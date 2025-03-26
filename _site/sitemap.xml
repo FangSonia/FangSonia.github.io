@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/tag-ios/</loc>
-<lastmod>2025-03-26T00:22:36+08:00</lastmod>
+<lastmod>2025-03-26T22:44:09+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tag-swift/</loc>
-<lastmod>2025-03-26T00:22:36+08:00</lastmod>
+<lastmod>2025-03-26T22:44:09+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -33,13 +33,7 @@
 <loc>http://localhost:4000/posts</loc>
 </url>
 <url>
-<loc>http://localhost:4000/showcase/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/resume/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/licenses/Apache-2.0</loc>
@@ -57,6 +51,16 @@
 <loc>http://localhost:4000/licenses/W3C-20150513</loc>
 </url>
 <url>
+<loc>http://localhost:4000/nav/projects</loc>
+</url>
+<url>
+<loc>http://localhost:4000/nav/tags</loc>
+</url>
+<url>
 <loc>http://localhost:4000/licenses/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/Resume.pdf</loc>
+<lastmod>2025-03-23T15:36:58+08:00</lastmod>
 </url>
 </urlset>

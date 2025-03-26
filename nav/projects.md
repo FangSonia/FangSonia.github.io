@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: projects
 title: Showcase
 permalink: /showcase/
@@ -9,4 +9,4 @@ description: >
 menu: true
 sidebar: true
 order: 6
----
+--- -->

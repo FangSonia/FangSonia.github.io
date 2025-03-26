@@ -3,7 +3,7 @@ layout: resume
 title: Resume
 permalink: /resume/
 description: >
-  Hi, I'm Simon Zeng, a developer of iOS from China.
+  Hi, I'm Sonia Fang, a professional and lovely product manager from China.
 hide_description: true
 sidebar: true
 order: 5
@@ -24,5 +24,5 @@ no_skill_icons: false
 buttons:
   print: false
   pdf: /assets/Resume.pdf
-  json: /assets/resume.json
+  # json: /assets/resume.json
 ---
