@@ -15,7 +15,7 @@ This blog was created to document my thoughts and life, while also sharing some 
 ## Feel Free to Explore
 
 * [About]{:.heading.flip-title} --- Just a brief introduction of this Blog.
-* [Blog]{:.heading.flip-title} --- Just a glimpse into my engineering career.
+* [Summary]{:.heading.flip-title} --- Anything about product knowledge and experience summary.
 <!-- * [Tags]{:.heading.flip-title} ---  You can find the content you are interested in through the tags. -->
 * [Life]{:.heading.flip-title} ---  Wonderful things in my life or my feeling.
 * [Resume]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
@@ -23,7 +23,7 @@ This blog was created to document my thoughts and life, while also sharing some 
 {:.related-posts.faded}
 
 [about]: about/
-[blog]: blog/
+[summary]: summary/
 <!-- [tags]: tags/ -->
 [life]: life/
 [resume]: resume/

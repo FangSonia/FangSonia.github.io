@@ -1,9 +1,9 @@
 ---
 layout: list
 type: category
-title: Blog
-permalink: /blog/
-slug: Blog
+title: Summary
+permalink: /summary/
+slug: Summary
 sidebar: true
 order: 2
 description: >

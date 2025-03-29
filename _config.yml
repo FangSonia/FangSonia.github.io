@@ -55,15 +55,15 @@ author:
     email:            1009782834@qq.com
 
 # Add links to the sidebar.
-# menu:
-#   - title:             Blog
-#     url:               /blog/
-#   - title:             Projects
-#     url:               /projects/
-#  - title:             Résumé*
-#     url:               /resume/
-#   - title:             Documentation
-#     url:               /docs/
+menu:
+  - title:             About
+    url:               /about/
+  - title:             Summary
+    url:               /summary/
+  - title:             Life
+    url:               /life/
+  - title:             Resume
+    url:               /resume/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -457,5 +457,7 @@ jekyll_compose:
 # jekyll-feed settings
 feed:
   categories:
-    - devlog
+    - life
     - review
+    - share
+    - summary
